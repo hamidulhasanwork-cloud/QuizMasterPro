@@ -1,0 +1,21 @@
+{
+  "short_name": "QuizMasterPro",
+  "name": "Quiz Master Pro - BCS & Admission Preparation",
+  "icons": [
+    {
+      "src": "https://i.ibb.co.com/Y4g8Fnwj/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "https://i.ibb.co.com/Y4g8Fnwj/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#11132e",
+  "display": "standalone",
+  "theme_color": "#11132e",
+  "orientation": "portrait"
+}
